@@ -12,7 +12,7 @@ features like screen sharing, group meetings etc.
 
 # Demo
 
-[Chit - Chat](https://chit-chat-communication.netlify.app)
+[Chit-Chat](https://chit-chat-communication.netlify.app)
 
 <br/>
 
