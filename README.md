@@ -1,6 +1,6 @@
 # Chit-Chat
 
-![ProDB-kit Logo](https://github.com/Dhruvin-github/Chit-Chat/blob/Frontend/src/Assets/Logo.png)
+![ProDB-kit Logo](https://github.com/pesto-students/chit-chat-frontend-team1-gaurav/blob/master/src/Assets/Logo.png)
 
 Chit-Chat is a real time chat application where you can send messages,
 share media files like images, documents, videos etc. You can also
